@@ -1,4 +1,5 @@
-# Python - Network Programming
+# Python - Chatting Room
 # Sockets
 # Memcache
 # Twisted
+# RabbitMQ
